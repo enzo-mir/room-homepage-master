@@ -286,7 +286,7 @@ main section:first-child {
 
       & span {
         left: 100%;
-        transform: translateX(-110%);
+        transform: translateX(-100%);
         width: 130px;
         height: 50px;
       }
